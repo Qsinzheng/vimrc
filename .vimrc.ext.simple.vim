@@ -1,3 +1,4 @@
+" vimrc.simple
 " vimrc setting of Qsinzheng, since 20110710, updated at 20171012
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " vim compatibility setting
